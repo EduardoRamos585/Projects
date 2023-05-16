@@ -1,1 +1,0 @@
-This project simulates the behavior of a Bash Shell in Linux though the system functions Fork and Exec. I worked on this project during my 2023 Spring semester at the University of Texas at Arlington for my OS class.
