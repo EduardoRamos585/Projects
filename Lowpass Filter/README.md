@@ -1,0 +1,1 @@
+This project was developed during my Signal Processing class. The objective was to remove a certain high-pitch noise using a Butterworth filter written in MATLAB. In this folder, the original and filtered sound files are included.
