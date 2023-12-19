@@ -1,0 +1,1 @@
+This project was a semester assignment for my Embedded Systems class. The objective was to construct an automated pet feeder capable of maintaining a feeding schedule without human intervention. To accomplish this, we used the Tiva C Series board as our microcontroller for this project.
