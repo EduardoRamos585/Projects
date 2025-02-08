@@ -1,0 +1,1 @@
+THis folder contains the completed version of the Real Time Operating System I designed during Fall 2024. This OS puts priority on completing tasks in a controlled time frame, where each task is allocated a portion of memory and certain r/w privileges.
