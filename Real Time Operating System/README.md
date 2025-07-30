@@ -1,1 +1,5 @@
-This folder contains the completed version of the Real Time Operating System I designed during Fall 2024. This OS puts priority on completing tasks in a controlled time frame, where each task is allocated a portion of memory and certain r/w privileges. For this project the Tiva Board C series microcontroller was a perfect choice since it provides a native memory protection untit to enforce access control over allocated tasks. Furthermore, to ensure real-time responsivness, a preemptive scheduler was included to ensure high-priority tasks aren't obstructed from performing thier functions.
+## Description
+The goal of this project was to replicate the operations of a Real Time Operating Systems. For this project the TI Tiva Board C series was used. 
+Of course, there was some limitations to this design, especially when it came to multithreading. Since the Tiva TM4C123GH6PM comes with only one
+AMR Cortex-M4F Core, running tasks simultaneously was not an option. Thefore context switchin was necessary for this design.
+
